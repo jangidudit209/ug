@@ -1,0 +1,5 @@
+gcc
+ffmpeg
+aria2
+libffi-dev
+build-essential
